@@ -10,7 +10,7 @@ import Loading from "../loading";
 
 export default function Weather() {
   const { data, loading } = useFetchData<IMNData>(
-    "http://localhost:3000/api/imn-data",
+    "/api/imn-data",
     { cache: "no-store" }
   );
 
