@@ -1,9 +1,8 @@
-
 import { useEffect, useState } from "react";
 
 export default function useFetchData<T>(
   url: string,
-  options?: RequestInit
+  options?: RequestInit,
 ): { data: T | null; loading: boolean; error: Error | null } {
   const [data, setData] = useState<T | null>(null);
   const [loading, setLoading] = useState(false);
@@ -14,7 +13,7 @@ export default function useFetchData<T>(
       setLoading(true);
       try {
         const response = await fetch(url, options);
-        const data = await response.json() as T;
+        const data = (await response.json()) as T;
         setData(data);
       } catch (error) {
         setError(error as Error);
@@ -24,7 +23,8 @@ export default function useFetchData<T>(
     };
 
     void fetchData();
-  }, [url, options]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [url, JSON.stringify(options)]);
 
   return { data, loading, error };
 }

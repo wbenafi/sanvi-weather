@@ -1,12 +1,22 @@
+'use client'
+
 import { type IMNData } from "~/types/imn-data";
 import { getLastHourPrecipitation } from "~/utils/get-last-hour-precipiration";
 import { getWeatherCondition } from "~/utils/get-weather-condition";
 import WeatherConditionIcon from "./weather-condition-icon";
 import { Droplets, ThermometerIcon, Umbrella } from "lucide-react";
+import useFetchData from "../hooks/useFetchData";
+import Loading from "../loading";
 
-export default async function Weather() {
-  const response = await fetch("http://localhost:3000/api/imn-data");
-  const data = (await response.json()) as IMNData;
+export default function Weather() {
+  const { data, loading } = useFetchData<IMNData>(
+    "http://localhost:3000/api/imn-data",
+    { cache: "no-store" }
+  );
+
+  if (!data || loading) {
+    return <Loading />;
+  }
 
   const lastHourPrecipitation = getLastHourPrecipitation(data.last24Hours);
 
