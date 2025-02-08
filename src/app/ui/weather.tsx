@@ -1,4 +1,4 @@
-'use client'
+"use client";
 
 import { type IMNData } from "~/types/imn-data";
 import { getLastHourPrecipitation } from "~/utils/get-last-hour-precipiration";
@@ -9,10 +9,9 @@ import useFetchData from "../hooks/useFetchData";
 import Loading from "../loading";
 
 export default function Weather() {
-  const { data, loading } = useFetchData<IMNData>(
-    "/api/imn-data",
-    { cache: "no-store" }
-  );
+  const { data, loading } = useFetchData<IMNData>("/api/imn-data", {
+    cache: "no-store",
+  });
 
   if (!data || loading) {
     return <Loading />;
@@ -20,7 +19,10 @@ export default function Weather() {
 
   const lastHourPrecipitation = getLastHourPrecipitation(data.last24Hours);
 
-  const condition = getWeatherCondition(lastHourPrecipitation);
+  const condition = getWeatherCondition(
+    lastHourPrecipitation,
+    Number(data.currentWeather.relative_humidity) ?? 0,
+  );
 
   return (
     <div className="mx-auto h-min min-w-[90%] max-w-2xl rounded-lg bg-white p-8 shadow-lg sm:min-w-0">
