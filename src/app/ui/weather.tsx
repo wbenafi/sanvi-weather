@@ -7,8 +7,6 @@ import { Droplets, ThermometerIcon, Umbrella } from "lucide-react";
 export default async function Weather() {
   const response = await fetch("http://localhost:3000/api/imn-data");
   const data = (await response.json()) as IMNData;
-  // sleep for 1 second
-  await new Promise((resolve) => setTimeout(resolve, 1000));
 
   const lastHourPrecipitation = getLastHourPrecipitation(data.last24Hours);
 

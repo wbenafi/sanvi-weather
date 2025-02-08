@@ -1,6 +1,6 @@
 
 import { JSDOM } from 'jsdom'
-import { IMNData } from '~/types/imn-data'
+import type { IMNData } from '~/types/imn-data'
 
 const IMN_TABLE_URL = "https://www.imn.ac.cr/especial/tablas/sanvicente.html"
 
@@ -12,8 +12,6 @@ export async function GET() {
   })
   
   const data = await res.text()
-  
-  console.log(data)
   
   const dom = new JSDOM(data)
   const document = dom.window.document
