@@ -8,7 +8,7 @@ export function getLastHourPrecipitation(
   }
 
   const lastHour =
-    new Date().getMinutes() < 30 ? last24Hours[0] : last24Hours[1];
+    new Date().getMinutes() < 10 ? last24Hours[0] : last24Hours[1];
 
   return parseFloat(lastHour?.Lluvia ?? "0");
 }
