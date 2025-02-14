@@ -3,7 +3,7 @@ import { getLastHourPrecipitation } from "~/utils/get-last-hour-precipiration";
 import { getWeatherCondition } from "~/utils/get-weather-condition";
 import WeatherConditionIcon from "./weather-condition-icon";
 import { Droplets, ThermometerIcon, Umbrella } from "lucide-react";
-import Card from "./card";
+import { Card } from "~/components/ui/card";
 
 export default function WeatherMainCard({ data }: { data: IMNData }) {
   const lastHourPrecipitation = getLastHourPrecipitation(data.last24Hours);
@@ -14,7 +14,7 @@ export default function WeatherMainCard({ data }: { data: IMNData }) {
   );
 
   return (
-    <Card>
+    <Card className="p-9">
       <div className="mb-8 flex flex-col-reverse items-center justify-between gap-4 md:flex-row">
         <div className="text-center md:text-left">
           <h2 className="text-5xl font-bold">
