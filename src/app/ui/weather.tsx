@@ -2,9 +2,10 @@
 
 import { type IMNData } from "~/types/imn-data";
 import useFetchData from "../hooks/useFetchData";
-import Loading from "../loading";
 import WeatherMainCard from "./weather-main-card";
 import { WeatherLastHours } from "./weather-last-hours";
+import { WeatherMainCardSkeleton } from "./weather-main-card-skeleton";
+import { WeatherLastHoursSkeleton } from "./weather-last-hours-skeleton";
 
 export default function Weather() {
   const { data, loading } = useFetchData<IMNData>("/api/imn-data", {
@@ -12,7 +13,12 @@ export default function Weather() {
   });
 
   if (!data || loading) {
-    return <Loading />;
+    return (
+      <div className="flex flex-col gap-4">
+        <WeatherMainCardSkeleton />
+        <WeatherLastHoursSkeleton />
+      </div>
+    );
   }
 
   return (

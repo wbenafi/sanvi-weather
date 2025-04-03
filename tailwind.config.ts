@@ -1,5 +1,6 @@
 import { type Config } from "tailwindcss";
 import { fontFamily } from "tailwindcss/defaultTheme";
+import animate from "tailwindcss-animate";
 
 export default {
     darkMode: ["class"],
@@ -13,7 +14,13 @@ export default {
                 ]
   		},
   		colors: {
-  			'primary': '#4cd4ab'
+  			'primary': '#4cd4ab',
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        muted: {
+          DEFAULT: "hsl(var(--muted))",
+          foreground: "hsl(var(--muted-foreground))",
+        }
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
@@ -22,5 +29,5 @@ export default {
   		}
   	}
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [animate],
 } satisfies Config;

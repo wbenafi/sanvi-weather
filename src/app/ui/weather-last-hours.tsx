@@ -9,7 +9,6 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "~/components/ui/card";
@@ -30,17 +29,17 @@ const chartConfig = {
 } satisfies ChartConfig;
 
 export function WeatherLastHours({ data }: { data: IMNData["last24Hours"] }) {
-  const chartData = data?.map((item) => ({
+  const reversedData = [...(data ?? [])].reverse();
+
+  const chartData = reversedData.map((item) => ({
     hour: dayjs(item.Fecha.replaceAll(".", ""), "DD/MM/YYYY hh:mm a").format(
-      "h:mm a",
+      "h a",
     ),
     temp: parseFloat(item.Temp),
   }));
 
-  console.log(chartData, data);
-
   return (
-    <Card>
+    <Card className="md:min-w-[480px]">
       <CardHeader>
         <CardTitle>Temperatura</CardTitle>
         <CardDescription>Últimas 24 horas</CardDescription>
@@ -55,7 +54,7 @@ export function WeatherLastHours({ data }: { data: IMNData["last24Hours"] }) {
               right: 12,
             }}
           >
-            <CartesianGrid horizontal={false} strokeDasharray="3 3" />
+            <CartesianGrid horizontal={false} strokeDasharray="3" />
             <XAxis
               dataKey="hour"
               tickLine={false}
