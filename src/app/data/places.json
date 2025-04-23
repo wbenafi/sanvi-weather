@@ -1,940 +1,1388 @@
-{
-"pacificoNorte": [
-        {
-        "name": "Aeropuerto Daniel Oduber 07",
-        "location": "Liberia - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLiberia.html"
-        },
-        {
-        "name": "Aeropuerto Daniel Oduber 07 (DA)",
-        "location": "Liberia - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLiberia2.html"
-        },
-        {
-        "name": "Aeropuerto Daniel Oduber 25",
-        "location": "Liberia - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLiberia25.html"
-        },
-        {
-        "name": "Aranjuez, Pitahaya",
-        "location": "Puntarenas - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAranjuez.html"
-        },
-        {
-        "name": "ASADA Artola",
-        "location": "Carrillo - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionSardinal.html"
-        },
-        {
-        "name": "ASADA Guayabo",
-        "location": "Bagaces - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionGuayabo.html"
-        },
-        {
-        "name": "ASADA Pilangosta",
-        "location": "Hojancha - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionPilangosta.html"
-        },
-        {
-        "name": "ASADA Santa Marta",
-        "location": "Hojancha - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionStaMarta.html"
-        },
-        {
-        "name": "Barco Quebrado - Garza",
-        "location": "Nosara - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionGarza.html"
-        },
-        {
-        "name": "Cabuya",
-        "location": "Cóbano - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCabuya.html"
-        },
-        {
-        "name": "Cerro Huacalito",
-        "location": "Carrillo - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionHuacalito.html"
-        },
-        {
-        "name": "Coopeguanacaste, Bijagua",
-        "location": "Upala - Alajuea",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBijagua.html"
-        },
-        {
-        "name": "Copalchí",
-        "location": "Peñas Blancas - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCopalchi.html"
-        },
-        {
-        "name": "Dulce Nombre",
-        "location": "Nicoya - Guancaste",
-        "state": "Mantenimiento",
-        "link": "http://www.imn.ac.cr/especial/estacionPuraVida.html"
-        },
-        {
-        "name": "El Corral, Palo Verde",
-        "location": "Bagaces - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionpaloverde.html"
-        },
-        {
-        "name": "Finca La Ceiba",
-        "location": "Nicoya - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLaCeiba.html"
-        },
-        {
-        "name": "Guayabal, Mastate",
-        "location": "Orotina - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionGmastate.html"
-        },
-        {
-        "name": "Hacienda Mojica",
-        "location": "Bagaces - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMojica.html"
-        },
-        {
-        "name": "Hacienda Taboga",
-        "location": "Cañas - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionTaboga.html"
-        },
-        {
-        "name": "La Cruz",
-        "location": "La Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionLaCruz.html"
-        },
-        {
-        "name": "Mangarica",
-        "location": "Liberia - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMangarica.html"
-        },
-        {
-        "name": "Maritza, Volcán Orosi",
-        "location": "La Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMaritza.html"
-        },
-        {
-        "name": "Miel, La Guinea",
-        "location": "Carrillo - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionlaGuinea.html"
-        },
-        {
-        "name": "Oroceiba",
-        "location": "Orotina - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionOroceiba.html"
-        },
-        {
-        "name": "Palo Alto, Montezuma",
-        "location": "Cañas - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMontezuma.html"
-        },
-        {
-        "name": "Paquera",
-        "location": "Central - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPaquera.html"
-        },
-        {
-        "name": "Progreso Cuajiniquil",
-        "location": "Santa Cruz - Guanacaste",
-        "state": "Mantenimiento",
-        "link": "https://www.imn.ac.cr/especial/estacionCuajiniquil.html"
-        },
-        {
-        "name": "Puesto Negritos, P.N Palo Verde",
-        "location": "Bagaces - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionNegritos.html"
-        },
-        {
-        "name": "Refugio Cipanci",
-        "location": "Cañas - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionCipanci.html"
-        },
-        {
-        "name": "San José, Pinilla",
-        "location": "Santa Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPinilla.html"
-        },
-        {
-        "name": "San Mateo",
-        "location": "San Mateo - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSanMateo.html"
-        },
-        {
-        "name": "Santa Cecilia",
-        "location": "La Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionStacecilia.html"
-        },
-        {
-        "name": "Santa Elena",
-        "location": "La Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionStaElena.html"
-        },
-        {
-        "name": "Santa Rita",
-        "location": "Nandayure - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionNandayure.html"
-        },
-        {
-        "name": "Santa Rosa",
-        "location": "La Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionstarosa.html"
-        },
-        {
-        "name": "Sitio La Cruz",
-        "location": "Bagaces - Guanacaste",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionSitioLaCruz.html"
-        },
-        {
-        "name": "Universidad INVENIO",
-        "location": "Cañas - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionInvenio.html"
-        },
-        {
-        "name": "UCR Santa Cruz",
-        "location": "Santa Cruz - Guanacaste",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionStacruz.html"
-        }
-    ],
-    "pacificoCentral": [
-        {
-        "name": "Arunachala",
-        "location": "Pérez Zeledón - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionArunachala.html"
-        },
-        {
-        "name": "ASADA San Gabriel",
-        "location": "Desamparados - San José",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionSangabriel.html"
-        },
-        {
-        "name": "Barú",
-        "location": "Pérez Zeledón - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBaru.html"
-        },
-        {
-        "name": "Cerro Buenavista",
-        "location": "Pérez Zeledón - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCM.html"
-        },
-        {
-        "name": "El Rodeo",
-        "location": "Tarrazú - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionTarrazu.html"
-        },
-        {
-        "name": "Finca Damas",
-        "location": "Quepos - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionDamas.html"
-        },
-        {
-        "name": "La Ligia",
-        "location": "Parrita - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionligia.html"
-        },
-        {
-        "name": "La Lucha",
-        "location": "León Cortes - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLucha.html"
-        },
-        {
-        "name": "Marina Pez Vela",
-        "location": "Quepos - Puntarenas",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionquepos.html"
-        },
-        {
-        "name": "Muelle Herradura",
-        "location": "Garabito - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionHerradura.html"
-        }
-    ],
-    "pacificoSur": [
-        {
-        "name": "Altamira",
-        "location": "Buenos Aires - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAltamira.html"
-        },
-        {
-        "name": "Cafetalera El Giro",
-        "location": "San Vito - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionGiro.html"
-        },
-        {
-        "name": "Cafetalera El Indio",
-        "location": "San Vito - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSanVito.html"
-        },
-        {
-        "name": "Cerro Chirripó",
-        "location": "Pérez Zeledón - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionChirripo.html"
-        },
-        {
-        "name": "Coto 49",
-        "location": "Corredores - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCoto49.html"
-        },
-        {
-        "name": "Finca El Patio, Puerto Jiménez",
-        "location": "Golfito - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionJimenez.html"
-        },
-        {
-        "name": "Fundación Neotrópica",
-        "location": "Osa - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionNeotropica.html"
-        },
-        {
-        "name": "Las Cruces OET",
-        "location": "Coto Brus - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCrucesOET.html"
-        },
-        {
-        "name": "Las Brisas, Sabalito",
-        "location": "Coto Brus - Puntarenas",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionLasBrisas.html"
-        },
-        {
-        "name": "Laurel",
-        "location": "Corredores - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLaurel.html"
-        },
-        {
-        "name": "Montecarlo",
-        "location": "Pérez Zeledón - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMontecarlo.html"
-        },
-        {
-        "name": "Museo Finca 6",
-        "location": "Osa - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMuseo.html"
-        },
-        {
-        "name": "PINDECO",
-        "location": "Buenos Aires - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPindeco.html"
-        },
-        {
-        "name": "Reserva Biológica Greg Gund",
-        "location": "Golfito - Puntarenas",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionGreggund.html"
-        },
-        {
-        "name": "Río Claro",
-        "location": "Golfito - Puntarenas",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionRioclaro.html"
-        }
-    ],
-    "zonaNorte": [
-        {
-        "name": "ADIFORT, La Fortuna San Carlos",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionfortuna.html"
-        },
-        {
-        "name": "Aeródromo Zona Norte",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAeropzn.html"
-        },
-        {
-        "name": "ASADA San Rafael de Guatuso",
-        "location": "Guatuso - Alajuela",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionGuatuso.html"
-        },
-        {
-        "name": "Balsa",
-        "location": "San Ramón - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBalsa.html"
-        },
-        {
-        "name": "Betania, Cutris",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBetania.html"
-        },
-        {
-        "name": "Comando Puerto Viejo",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSarapiqui.html"
-        },
-        {
-        "name": "Coopevega",
-        "location": "San Carlos - Alajueja",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCoopevega.html"
-        },
-        {
-        "name": "El Bosque, Rio Tirimbina",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionTirimbina.html"
-        },
-        {
-        "name": "Finca Brasilia",
-        "location": "Upala - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBrasilia.html"
-        },
-        {
-        "name": "Hidroeléctrica El General",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionHidroelectrica.html"
-        },
-        {
-        "name": "Horquetas",
-        "location": "Sarapiquí- Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionHorquetas.html"
-        },
-        {
-        "name": "Hotel Pozo Azul",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPozoazul.html"
-        },
-        {
-        "name": "Hotel Villa Blanca",
-        "location": "San Ramón - Alajueja",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionVblanca.html"
-        },
-        {
-        "name": "ITCR, Santa Clara",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionStaClara.html"
-        },
-        {
-        "name": "La Rebusca",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionRebusca.html"
-        },
-        {
-        "name": "La Selva OET",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSelvaOET.html"
-        },
-        {
-        "name": "Laguna, Volcán Poás",
-        "location": "Poás - Alajuela",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionPoas.html"
-        },
-        {
-        "name": "Las Delicias",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionDelicias.html"
-        },
-        {
-        "name": "Los Chiles",
-        "location": "Los Chiles - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionChiles.html"
-        },
-        {
-        "name": "Montaña Sagrada (Deslizamiento Aguas Zarcas)",
-        "location": "La Palmera - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMsagrada.html"
-        },
-        {
-        "name": "Río Zapote, Canalete (Estación hidrológica)",
-        "location": "Upala - Alajuela",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionCanalete.html"
-        },
-        {
-        "name": "Saint George (San Jorge)",
-        "location": "Los Chiles - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSanjorge.html"
-        },
-        {
-        "name": "San Gerardo",
-        "location": "Sarapiquí - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSanGerardo.html"
-        },
-        {
-        "name": "San Vicente, Ciudad Quesada",
-        "location": "San Carlos - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSanVicente.html"
-        },
-        {
-        "name": "Upala",
-        "location": "Upala - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionupala.html"
-        },
-        {
-        "name": "Volcán Tenorio",
-        "location": "Guatuso - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionTenorio.html"
-        }
-    ],
-    "valleCentral": [
-        {
-        "name": "Aeropuerto Juan Santamaría 07",
-        "location": "Central de Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacioncoco.html"
-        },
-        {
-        "name": "Aeropuerto Juan Santamaría 07 (DA)",
-        "location": "Central de Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacioncocoqnh07.html"
-        },
-        {
-        "name": "Aeropuerto Juan Santamaría 25",
-        "location": "Central de Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacioncoco25.html"
-        },
-        {
-        "name": "Aeropuerto Juan Santamaría 25 (DA)",
-        "location": "Central de Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacioncocoqnh25.html"
-        },
-        {
-        "name": "Aeropuerto Juan Santamaría MP",
-        "location": "Central de Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacioncocomp.html"
-        },
-        {
-        "name": "Aeropuerto Tobías Bolaños 09",
-        "location": "Pavas - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAitbp09.html"
-        },
-        {
-        "name": "Aeropuerto Tobías Bolaños 09 (DA)",
-        "location": "Pavas - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAitbp09qnh.html"
-        },
-        {
-        "name": "Aeropuerto Tobías Bolaños 27",
-        "location": "Pavas - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPavas.html"
-        },
-        {
-        "name": "Aeropuerto Tobías Bolaños 27 (DA)",
-        "location": "Pavas - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPavas2.html"
-        },
-        {
-        "name": "Alfredo Volio Mata",
-        "location": "Cartago - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionAlfredoVolio.html"
-        },
-        {
-        "name": "Altos Tablazo, Higuito",
-        "location": "Desamparados - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estaciontablazo.html"
-        },
-        {
-        "name": "Barrancas",
-        "location": "El Guarco - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBarrancas.html"
-        },
-        {
-        "name": "Belén",
-        "location": "Belén - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBelen.html"
-        },
-        {
-        "name": "Cerro Burío",
-        "location": "Aserrí - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionBurio.html"
-        },
-        {
-        "name": "Cerro Cedral",
-        "location": "Escazú- San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCedral.html"
-        },
-        {
-        "name": "Cerro Chitaria, Santa Ana",
-        "location": "Santa Ana - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionchitaria.html"
-        },
-        {
-        "name": "Cerro Jucó",
-        "location": "Paraíso - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionJuco.html"
-        },
-        {
-        "name": "CIGEFI",
-        "location": "Montes de Oca - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCigefi.html"
-        },
-        {
-        "name": "Ciudad de los Niños",
-        "location": "Cartago - Cartago",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionCiudadninos.html"
-        },
-        {
-        "name": "Ciudad Judicial",
-        "location": "Flores - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionJudicial.html"
-        },
-        {
-        "name": "CRRV, Plantel Municipal",
-        "location": "Santa Ana - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMuniStaAna.html"
-        },
-        {
-        "name": "Fabio Baudrit",
-        "location": "Central - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionFABIO.html"
-        },
-        {
-        "name": "Finca Los Lotes",
-        "location": "La Unión - Cartago",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionLoslotes.html"
-        },
-        {
-        "name": "Finca Los Macaya",
-        "location": "Goicoechea - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMacaya.html"
-        },
-        {
-        "name": "IMN, Aranjuez",
-        "location": "Central San José - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacion.html"
-        },
-        {
-        "name": "ITCR, Cartago",
-        "location": "Cartago - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCartago.html"
-        },
-        {
-        "name": "Iztarú",
-        "location": "La Unión - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionIztaru.html"
-        },
-        {
-        "name": "Jaboncillal",
-        "location": "Goicoechea - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionJaboncillal.html"
-        },
-        {
-        "name": "Laguna Fraijanes",
-        "location": "Alajuela - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionFraijanes.html"
-        },
-        {
-        "name": "Llano Grande",
-        "location": "Cartago - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionLlanogrande.html"
-        },
-        {
-        "name": "Pacayas",
-        "location": "Alvarado - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPacayas.html"
-        },
-        {
-        "name": "Patio de Agua",
-        "location": "Coronado - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPatio.html"
-        },
-        {
-        "name": "RECOPE La Garita",
-        "location": "La Garita - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionGarita.html"
-        },
-        {
-        "name": "RECOPE Ochomogo",
-        "location": "Cartago - Cartago",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionOchomogo.html"
-        },
-        {
-        "name": "Residencial Bosques, Santa Ana",
-        "location": "Santa Ana - San José",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionMuniStaAnaBosques.html"
-        },
-        {
-        "name": "Residencial Paraíso, Piedades",
-        "location": "Santa Ana - San José",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionMuniStaAnaParaiso.html"
-        },
-        {
-        "name": "San Miguel",
-        "location": "Naranjo - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionNaranjo.html"
-        },
-        {
-        "name": "Santa Bárbara",
-        "location": "Santa Bárbara - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSTB.html"
-        },
-        {
-        "name": "Santa Lucía",
-        "location": "Barva - Heredia",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionsantalucia.html"
-        },
-        {
-        "name": "Sartalillo, Potrero Cerrado",
-        "location": "Oreamuno - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPotrero.html"
-        },
-        {
-        "name": "Universidad para la Paz",
-        "location": "Mora - San José",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionUPaz.html"
-        },
-        {
-        "name": "UTN, Balsa de Atenas",
-        "location": "Atenas - Alajuela",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionUTN.html"
-        },
-        {
-        "name": "Volcán Irazú",
-        "location": "Oreamuno - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionVirazu.html"
-        }
-    ],
-    "caribeNorte": [
-        {
-        "name": "Cantagallo",
-        "location": "Pococí - Limón",
-        "state": "Mantenimiento",
-        "link": "http://www.imn.ac.cr/especial/estacionCantagallo.html"
-        },
-        {
-        "name": "Caramba Farms, Roxana",
-        "location": "Pococí - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionRoxana.html"
-        },
-        {
-        "name": "EARTH",
-        "location": "Guácimo - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionearth.html"
-        },
-        {
-        "name": "Finca El Carmen",
-        "location": "Siquirres - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionElcarmen.html"
-        },
-        {
-        "name": "Hotel Mawamba Tortuguero",
-        "location": "Pococí - Limón",
-        "state": "Mantenimineto",
-        "link": "http://www.imn.ac.cr/especial/estacionMawamba.html"
-        },
-        {
-        "name": "Pococí Guápiles",
-        "location": "Pococí - Limón",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionGuapiles.html"
-        },
-        {
-        "name": "Rain Forest, Braulio Carrillo",
-        "location": "Pococí - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionRainforest.html"
-        }
-    ],
-    "caribeSur": [
-        {
-        "name": "Aeropuerto de Limón",
-        "location": "Central - Limón",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionlimon.html"
-        },
-        {
-        "name": "CATIE",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCatie.html"
-        },
-        {
-        "name": "Colegio Técnico Profesional, La Suiza",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionCTPlasuiza.html"
-        },
-        {
-        "name": "Escuela La Pastora (SAT)",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPastora.html"
-        },
-        {
-        "name": "Gavilán Canta, Bratsi",
-        "location": "Talamanca - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionGavilanCanta.html"
-        },
-        {
-        "name": "Hitoy Cerere",
-        "location": "Matama - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionHitoy.html"
-        },
-        {
-        "name": "Manzanillo",
-        "location": "Talamanca - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionManzanillo.html"
-        },
-        {
-        "name": "Maravilla, Juan Viñas",
-        "location": "Juan Viñas - Cartago",
-        "state": "Activa",
-        "link": "https://www.imn.ac.cr/especial/estacionJuanVinas.html"
-        },
-        {
-        "name": "Monumento Nacional Guayabo",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionMGuayabo.html"
-        },
-        {
-        "name": "Puerto Vargas",
-        "location": "Talamanca - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionPtovargas.html"
-        },
-        {
-        "name": "Sepecue, Telire",
-        "location": "Talamanca - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSepecue.html"
-        },
-        {
-        "name": "Sitio Mata",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSitiomata.html"
-        },
-        {
-        "name": "Sixaola",
-        "location": "Sixaola - Limón",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionSixaola.html"
-        },
-        {
-        "name": "Turrialba Centro",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionturri.html"
-        },
-        {
-        "name": "Volcán Turrialba",
-        "location": "Turrialba - Cartago",
-        "state": "Activa",
-        "link": "http://www.imn.ac.cr/especial/estacionVturri.html"
-        }
-    ]
-    }
+[
+  {
+    "name": "Aeropuerto Daniel Oduber 07",
+    "location": "Liberia - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLiberia.html",
+    "region": "pacificoNorte",
+    "id": "aeropuerto-daniel-oduber-07",
+    "tablesURI": "/especial/tablas/lib07.html"
+  },
+  {
+    "name": "Aeropuerto Daniel Oduber 07 (DA)",
+    "location": "Liberia - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLiberia2.html",
+    "region": "pacificoNorte",
+    "id": "aeropuerto-daniel-oduber-07-da",
+    "tablesURI": "/especial/tablas/qnhlib07.html"
+  },
+  {
+    "name": "Aeropuerto Daniel Oduber 25",
+    "location": "Liberia - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLiberia25.html",
+    "region": "pacificoNorte",
+    "id": "aeropuerto-daniel-oduber-25",
+    "tablesURI": "/especial/tablas/lib25.html"
+  },
+  {
+    "name": "Aranjuez, Pitahaya",
+    "location": "Puntarenas - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAranjuez.html",
+    "region": "pacificoNorte",
+    "id": "aranjuez-pitahaya",
+    "tablesURI": "/especial/tablas/aranjuez.html"
+  },
+  {
+    "name": "ASADA Artola",
+    "location": "Carrillo - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionSardinal.html",
+    "region": "pacificoNorte",
+    "id": "asada-artola",
+    "tablesURI": "/especial/tablas/sardinal.html"
+  },
+  {
+    "name": "ASADA Guayabo",
+    "location": "Bagaces - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionGuayabo.html",
+    "region": "pacificoNorte",
+    "id": "asada-guayabo",
+    "tablesURI": "/especial/tablas/guayabob.html"
+  },
+  {
+    "name": "ASADA Pilangosta",
+    "location": "Hojancha - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionPilangosta.html",
+    "region": "pacificoNorte",
+    "id": "asada-pilangosta",
+    "tablesURI": "/especial/tablas/pilangosta.html"
+  },
+  {
+    "name": "ASADA Santa Marta",
+    "location": "Hojancha - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionStaMarta.html",
+    "region": "pacificoNorte",
+    "id": "asada-santa-marta",
+    "tablesURI": "/especial/tablas/stamarta.html"
+  },
+  {
+    "name": "Barco Quebrado - Garza",
+    "location": "Nosara - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionGarza.html",
+    "region": "pacificoNorte",
+    "id": "barco-quebrado-garza",
+    "tablesURI": "/especial/tablas/garza.html"
+  },
+  {
+    "name": "Cabuya",
+    "location": "Cóbano - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCabuya.html",
+    "region": "pacificoNorte",
+    "id": "cabuya",
+    "tablesURI": "/especial/tablas/cabuya.html"
+  },
+  {
+    "name": "Cerro Huacalito",
+    "location": "Carrillo - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionHuacalito.html",
+    "region": "pacificoNorte",
+    "id": "cerro-huacalito",
+    "tablesURI": "/especial/tablas/huacalito.html"
+  },
+  {
+    "name": "Coopeguanacaste, Bijagua",
+    "location": "Upala - Alajuea",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBijagua.html",
+    "region": "pacificoNorte",
+    "id": "coopeguanacaste-bijagua",
+    "tablesURI": "/especial/tablas/bijagua.html"
+  },
+  {
+    "name": "Copalchí",
+    "location": "Peñas Blancas - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCopalchi.html",
+    "region": "pacificoNorte",
+    "id": "copalchi",
+    "tablesURI": "/especial/tablas/copalchi.html"
+  },
+  {
+    "name": "Dulce Nombre",
+    "location": "Nicoya - Guancaste",
+    "state": "Mantenimiento",
+    "link": "http://www.imn.ac.cr/especial/estacionPuraVida.html",
+    "region": "pacificoNorte",
+    "id": "dulce-nombre",
+    "tablesURI": "/especial/tablas/puravida.html"
+  },
+  {
+    "name": "El Corral, Palo Verde",
+    "location": "Bagaces - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionpaloverde.html",
+    "region": "pacificoNorte",
+    "id": "el-corral-palo-verde",
+    "tablesURI": "/especial/tablas/paloverde.html"
+  },
+  {
+    "name": "Finca La Ceiba",
+    "location": "Nicoya - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLaCeiba.html",
+    "region": "pacificoNorte",
+    "id": "finca-la-ceiba",
+    "tablesURI": "/especial/tablas/laceiba.html"
+  },
+  {
+    "name": "Guayabal, Mastate",
+    "location": "Orotina - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionGmastate.html",
+    "region": "pacificoNorte",
+    "id": "guayabal-mastate",
+    "tablesURI": "/especial/tablas/gmastate.html"
+  },
+  {
+    "name": "Hacienda Mojica",
+    "location": "Bagaces - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMojica.html",
+    "region": "pacificoNorte",
+    "id": "hacienda-mojica",
+    "tablesURI": "/especial/tablas/mojica.html"
+  },
+  {
+    "name": "Hacienda Taboga",
+    "location": "Cañas - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionTaboga.html",
+    "region": "pacificoNorte",
+    "id": "hacienda-taboga",
+    "tablesURI": "/especial/tablas/taboga.html"
+  },
+  {
+    "name": "La Cruz",
+    "location": "La Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionLaCruz.html",
+    "region": "pacificoNorte",
+    "id": "la-cruz",
+    "tablesURI": "/especial/tablas/lacruz.html"
+  },
+  {
+    "name": "Mangarica",
+    "location": "Liberia - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMangarica.html",
+    "region": "pacificoNorte",
+    "id": "mangarica",
+    "tablesURI": "/especial/tablas/mangarica.html"
+  },
+  {
+    "name": "Maritza, Volcán Orosi",
+    "location": "La Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMaritza.html",
+    "region": "pacificoNorte",
+    "id": "maritza-volcan-orosi",
+    "tablesURI": "/especial/tablas/maritza.html"
+  },
+  {
+    "name": "Miel, La Guinea",
+    "location": "Carrillo - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionlaGuinea.html",
+    "region": "pacificoNorte",
+    "id": "miel-la-guinea",
+    "tablesURI": "/especial/tablas/guinea.html"
+  },
+  {
+    "name": "Oroceiba",
+    "location": "Orotina - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionOroceiba.html",
+    "region": "pacificoNorte",
+    "id": "oroceiba",
+    "tablesURI": "/especial/tablas/oroceiba.html"
+  },
+  {
+    "name": "Palo Alto, Montezuma",
+    "location": "Cañas - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMontezuma.html",
+    "region": "pacificoNorte",
+    "id": "palo-alto-montezuma",
+    "tablesURI": "/especial/tablas/montezuma.html"
+  },
+  {
+    "name": "Paquera",
+    "location": "Central - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPaquera.html",
+    "region": "pacificoNorte",
+    "id": "paquera",
+    "tablesURI": "/especial/tablas/paquera.html"
+  },
+  {
+    "name": "Progreso Cuajiniquil",
+    "location": "Santa Cruz - Guanacaste",
+    "state": "Mantenimiento",
+    "link": "https://www.imn.ac.cr/especial/estacionCuajiniquil.html",
+    "region": "pacificoNorte",
+    "id": "progreso-cuajiniquil",
+    "tablesURI": "/especial/tablas/cuajiniquil.html"
+  },
+  {
+    "name": "Puesto Negritos, P.N Palo Verde",
+    "location": "Bagaces - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionNegritos.html",
+    "region": "pacificoNorte",
+    "id": "puesto-negritos-pn-palo-verde",
+    "tablesURI": "/especial/tablas/negritos.html"
+  },
+  {
+    "name": "Refugio Cipanci",
+    "location": "Cañas - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionCipanci.html",
+    "region": "pacificoNorte",
+    "id": "refugio-cipanci",
+    "tablesURI": "/especial/tablas/cipanci.html"
+  },
+  {
+    "name": "San José, Pinilla",
+    "location": "Santa Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPinilla.html",
+    "region": "pacificoNorte",
+    "id": "san-jose-pinilla",
+    "tablesURI": "/especial/tablas/pinilla.html"
+  },
+  {
+    "name": "San Mateo",
+    "location": "San Mateo - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSanMateo.html",
+    "region": "pacificoNorte",
+    "id": "san-mateo",
+    "tablesURI": "/especial/tablas/sanmateo.html"
+  },
+  {
+    "name": "Santa Cecilia",
+    "location": "La Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionStacecilia.html",
+    "region": "pacificoNorte",
+    "id": "santa-cecilia",
+    "tablesURI": "/especial/tablas/stacecilia.html"
+  },
+  {
+    "name": "Santa Elena",
+    "location": "La Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionStaElena.html",
+    "region": "pacificoNorte",
+    "id": "santa-elena",
+    "tablesURI": "/especial/tablas/staelena.html"
+  },
+  {
+    "name": "Santa Rita",
+    "location": "Nandayure - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionNandayure.html",
+    "region": "pacificoNorte",
+    "id": "santa-rita",
+    "tablesURI": "/especial/tablas/nandayure.html"
+  },
+  {
+    "name": "Santa Rosa",
+    "location": "La Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionstarosa.html",
+    "region": "pacificoNorte",
+    "id": "santa-rosa",
+    "tablesURI": "/especial/tablas/santarosa.html"
+  },
+  {
+    "name": "Sitio La Cruz",
+    "location": "Bagaces - Guanacaste",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionSitioLaCruz.html",
+    "region": "pacificoNorte",
+    "id": "sitio-la-cruz",
+    "tablesURI": "/especial/tablas/sitiolacruz.html"
+  },
+  {
+    "name": "Universidad INVENIO",
+    "location": "Cañas - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionInvenio.html",
+    "region": "pacificoNorte",
+    "id": "universidad-invenio",
+    "tablesURI": "/especial/tablas/invenio.html"
+  },
+  {
+    "name": "UCR Santa Cruz",
+    "location": "Santa Cruz - Guanacaste",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionStacruz.html",
+    "region": "pacificoNorte",
+    "id": "ucr-santa-cruz",
+    "tablesURI": "/especial/tablas/stacruz.html"
+  },
+  {
+    "name": "Arunachala",
+    "location": "Pérez Zeledón - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionArunachala.html",
+    "region": "pacificoCentral",
+    "id": "arunachala",
+    "tablesURI": "/especial/tablas/arunachala.html"
+  },
+  {
+    "name": "ASADA San Gabriel",
+    "location": "Desamparados - San José",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionSangabriel.html",
+    "region": "pacificoCentral",
+    "id": "asada-san-gabriel",
+    "tablesURI": "/especial/tablas/sgabriel.html"
+  },
+  {
+    "name": "Barú",
+    "location": "Pérez Zeledón - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBaru.html",
+    "region": "pacificoCentral",
+    "id": "baru",
+    "tablesURI": "/especial/tablas/baru.html"
+  },
+  {
+    "name": "Cerro Buenavista",
+    "location": "Pérez Zeledón - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCM.html",
+    "region": "pacificoCentral",
+    "id": "cerro-buenavista",
+    "tablesURI": "/especial/tablas/cmuerte.html"
+  },
+  {
+    "name": "El Rodeo",
+    "location": "Tarrazú - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionTarrazu.html",
+    "region": "pacificoCentral",
+    "id": "el-rodeo",
+    "tablesURI": "/especial/tablas/tarrazu.html"
+  },
+  {
+    "name": "Finca Damas",
+    "location": "Quepos - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionDamas.html",
+    "region": "pacificoCentral",
+    "id": "finca-damas",
+    "tablesURI": "/especial/tablas/damas.html"
+  },
+  {
+    "name": "La Ligia",
+    "location": "Parrita - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionligia.html",
+    "region": "pacificoCentral",
+    "id": "la-ligia",
+    "tablesURI": "/especial/tablas/laligia.html"
+  },
+  {
+    "name": "La Lucha",
+    "location": "León Cortes - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLucha.html",
+    "region": "pacificoCentral",
+    "id": "la-lucha",
+    "tablesURI": "/especial/tablas/lalucha.html"
+  },
+  {
+    "name": "Marina Pez Vela",
+    "location": "Quepos - Puntarenas",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionquepos.html",
+    "region": "pacificoCentral",
+    "id": "marina-pez-vela",
+    "tablesURI": "/especial/tablas/quepos.html"
+  },
+  {
+    "name": "Muelle Herradura",
+    "location": "Garabito - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionHerradura.html",
+    "region": "pacificoCentral",
+    "id": "muelle-herradura",
+    "tablesURI": "/especial/tablas/herradura.html"
+  },
+  {
+    "name": "Altamira",
+    "location": "Buenos Aires - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAltamira.html",
+    "region": "pacificoSur",
+    "id": "altamira",
+    "tablesURI": "/especial/tablas/altamira.html"
+  },
+  {
+    "name": "Cafetalera El Giro",
+    "location": "San Vito - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionGiro.html",
+    "region": "pacificoSur",
+    "id": "cafetalera-el-giro",
+    "tablesURI": "/especial/tablas/giro.html"
+  },
+  {
+    "name": "Cafetalera El Indio",
+    "location": "San Vito - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSanVito.html",
+    "region": "pacificoSur",
+    "id": "cafetalera-el-indio",
+    "tablesURI": "/especial/tablas/sanvito.html"
+  },
+  {
+    "name": "Cerro Chirripó",
+    "location": "Pérez Zeledón - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionChirripo.html",
+    "region": "pacificoSur",
+    "id": "cerro-chirripo",
+    "tablesURI": "/especial/tablas/chirripo.html"
+  },
+  {
+    "name": "Coto 49",
+    "location": "Corredores - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCoto49.html",
+    "region": "pacificoSur",
+    "id": "coto-49",
+    "tablesURI": "/especial/tablas/coto49.html"
+  },
+  {
+    "name": "Finca El Patio, Puerto Jiménez",
+    "location": "Golfito - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionJimenez.html",
+    "region": "pacificoSur",
+    "id": "finca-el-patio-puerto-jimenez",
+    "tablesURI": "/especial/tablas/jimenez.html"
+  },
+  {
+    "name": "Fundación Neotrópica",
+    "location": "Osa - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionNeotropica.html",
+    "region": "pacificoSur",
+    "id": "fundacion-neotropica",
+    "tablesURI": "/especial/tablas/neotropica.html"
+  },
+  {
+    "name": "Las Cruces OET",
+    "location": "Coto Brus - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCrucesOET.html",
+    "region": "pacificoSur",
+    "id": "las-cruces-oet",
+    "tablesURI": null
+  },
+  {
+    "name": "Las Brisas, Sabalito",
+    "location": "Coto Brus - Puntarenas",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionLasBrisas.html",
+    "region": "pacificoSur",
+    "id": "las-brisas-sabalito",
+    "tablesURI": "/especial/tablas/lasbrisas.html"
+  },
+  {
+    "name": "Laurel",
+    "location": "Corredores - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLaurel.html",
+    "region": "pacificoSur",
+    "id": "laurel",
+    "tablesURI": "/especial/tablas/laurel.html"
+  },
+  {
+    "name": "Montecarlo",
+    "location": "Pérez Zeledón - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMontecarlo.html",
+    "region": "pacificoSur",
+    "id": "montecarlo",
+    "tablesURI": "/especial/tablas/montecarlo.html"
+  },
+  {
+    "name": "Museo Finca 6",
+    "location": "Osa - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMuseo.html",
+    "region": "pacificoSur",
+    "id": "museo-finca-6",
+    "tablesURI": "/especial/tablas/museo.html"
+  },
+  {
+    "name": "PINDECO",
+    "location": "Buenos Aires - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPindeco.html",
+    "region": "pacificoSur",
+    "id": "pindeco",
+    "tablesURI": "/especial/tablas/pindeco.html"
+  },
+  {
+    "name": "Reserva Biológica Greg Gund",
+    "location": "Golfito - Puntarenas",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionGreggund.html",
+    "region": "pacificoSur",
+    "id": "reserva-biologica-greg-gund",
+    "tablesURI": "/especial/tablas/greggund.html"
+  },
+  {
+    "name": "Río Claro",
+    "location": "Golfito - Puntarenas",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionRioclaro.html",
+    "region": "pacificoSur",
+    "id": "rio-claro",
+    "tablesURI": "/especial/tablas/rioclaro.html"
+  },
+  {
+    "name": "ADIFORT, La Fortuna San Carlos",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionfortuna.html",
+    "region": "zonaNorte",
+    "id": "adifort-la-fortuna-san-carlos",
+    "tablesURI": "/especial/tablas/fortuna.html"
+  },
+  {
+    "name": "Aeródromo Zona Norte",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAeropzn.html",
+    "region": "zonaNorte",
+    "id": "aerodromo-zona-norte",
+    "tablesURI": "/especial/tablas/aeropzn.html"
+  },
+  {
+    "name": "ASADA San Rafael de Guatuso",
+    "location": "Guatuso - Alajuela",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionGuatuso.html",
+    "region": "zonaNorte",
+    "id": "asada-san-rafael-de-guatuso",
+    "tablesURI": "/especial/tablas/guatuso.html"
+  },
+  {
+    "name": "Balsa",
+    "location": "San Ramón - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBalsa.html",
+    "region": "zonaNorte",
+    "id": "balsa",
+    "tablesURI": "/especial/tablas/balsa.html"
+  },
+  {
+    "name": "Betania, Cutris",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBetania.html",
+    "region": "zonaNorte",
+    "id": "betania-cutris",
+    "tablesURI": "/especial/tablas/betania.html"
+  },
+  {
+    "name": "Comando Puerto Viejo",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSarapiqui.html",
+    "region": "zonaNorte",
+    "id": "comando-puerto-viejo",
+    "tablesURI": "/especial/tablas/pvsarapiqui.html"
+  },
+  {
+    "name": "Coopevega",
+    "location": "San Carlos - Alajueja",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCoopevega.html",
+    "region": "zonaNorte",
+    "id": "coopevega",
+    "tablesURI": "/especial/tablas/coopevega.html"
+  },
+  {
+    "name": "El Bosque, Rio Tirimbina",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionTirimbina.html",
+    "region": "zonaNorte",
+    "id": "el-bosque-rio-tirimbina",
+    "tablesURI": "/especial/tablas/tirimbina.html"
+  },
+  {
+    "name": "Finca Brasilia",
+    "location": "Upala - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBrasilia.html",
+    "region": "zonaNorte",
+    "id": "finca-brasilia",
+    "tablesURI": "/especial/tablas/brasilia.html"
+  },
+  {
+    "name": "Hidroeléctrica El General",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionHidroelectrica.html",
+    "region": "zonaNorte",
+    "id": "hidroelectrica-el-general",
+    "tablesURI": "/especial/tablas/hidroelectrica.html"
+  },
+  {
+    "name": "Horquetas",
+    "location": "Sarapiquí- Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionHorquetas.html",
+    "region": "zonaNorte",
+    "id": "horquetas",
+    "tablesURI": "/especial/tablas/horquetas.html"
+  },
+  {
+    "name": "Hotel Pozo Azul",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPozoazul.html",
+    "region": "zonaNorte",
+    "id": "hotel-pozo-azul",
+    "tablesURI": "/especial/tablas/pozoazul.html"
+  },
+  {
+    "name": "Hotel Villa Blanca",
+    "location": "San Ramón - Alajueja",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionVblanca.html",
+    "region": "zonaNorte",
+    "id": "hotel-villa-blanca",
+    "tablesURI": "/especial/tablas/vblanca.html"
+  },
+  {
+    "name": "ITCR, Santa Clara",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionStaClara.html",
+    "region": "zonaNorte",
+    "id": "itcr-santa-clara",
+    "tablesURI": "/especial/tablas/staclara.html"
+  },
+  {
+    "name": "La Rebusca",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionRebusca.html",
+    "region": "zonaNorte",
+    "id": "la-rebusca",
+    "tablesURI": "/especial/tablas/larebusca.html"
+  },
+  {
+    "name": "La Selva OET",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSelvaOET.html",
+    "region": "zonaNorte",
+    "id": "la-selva-oet",
+    "tablesURI": null
+  },
+  {
+    "name": "Laguna, Volcán Poás",
+    "location": "Poás - Alajuela",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionPoas.html",
+    "region": "zonaNorte",
+    "id": "laguna-volcan-poas",
+    "tablesURI": "/especial/tablas/vpoas.html"
+  },
+  {
+    "name": "Las Delicias",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionDelicias.html",
+    "region": "zonaNorte",
+    "id": "las-delicias",
+    "tablesURI": "/especial/tablas/lasdelicias.html"
+  },
+  {
+    "name": "Los Chiles",
+    "location": "Los Chiles - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionChiles.html",
+    "region": "zonaNorte",
+    "id": "los-chiles",
+    "tablesURI": "/especial/tablas/loschiles.html"
+  },
+  {
+    "name": "Montaña Sagrada (Deslizamiento Aguas Zarcas)",
+    "location": "La Palmera - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMsagrada.html",
+    "region": "zonaNorte",
+    "id": "montana-sagrada-deslizamiento-aguas-zarcas",
+    "tablesURI": "/especial/tablas/msagrada.html"
+  },
+  {
+    "name": "Río Zapote, Canalete (Estación hidrológica)",
+    "location": "Upala - Alajuela",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionCanalete.html",
+    "region": "zonaNorte",
+    "id": "rio-zapote-canalete-estacion-hidrologica",
+    "tablesURI": "/especial/tablas/canalete.html"
+  },
+  {
+    "name": "Saint George (San Jorge)",
+    "location": "Los Chiles - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSanjorge.html",
+    "region": "zonaNorte",
+    "id": "saint-george-san-jorge",
+    "tablesURI": "/especial/tablas/sanjorge.html"
+  },
+  {
+    "name": "San Gerardo",
+    "location": "Sarapiquí - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSanGerardo.html",
+    "region": "zonaNorte",
+    "id": "san-gerardo",
+    "tablesURI": "/especial/tablas/sangerardo.html"
+  },
+  {
+    "name": "San Vicente, Ciudad Quesada",
+    "location": "San Carlos - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSanVicente.html",
+    "region": "zonaNorte",
+    "id": "san-vicente-ciudad-quesada",
+    "tablesURI": "/especial/tablas/sanvicente.html"
+  },
+  {
+    "name": "Upala",
+    "location": "Upala - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionupala.html",
+    "region": "zonaNorte",
+    "id": "upala",
+    "tablesURI": "/especial/tablas/upala.html"
+  },
+  {
+    "name": "Volcán Tenorio",
+    "location": "Guatuso - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionTenorio.html",
+    "region": "zonaNorte",
+    "id": "volcan-tenorio",
+    "tablesURI": "/especial/tablas/tenorio.html"
+  },
+  {
+    "name": "Aeropuerto Juan Santamaría 07",
+    "location": "Central de Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacioncoco.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-juan-santamaria-07",
+    "tablesURI": "/especial/tablas/aijs07.html"
+  },
+  {
+    "name": "Aeropuerto Juan Santamaría 07 (DA)",
+    "location": "Central de Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacioncocoqnh07.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-juan-santamaria-07-da",
+    "tablesURI": "/especial/tablas/qnhaijs07.html"
+  },
+  {
+    "name": "Aeropuerto Juan Santamaría 25",
+    "location": "Central de Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacioncoco25.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-juan-santamaria-25",
+    "tablesURI": "/especial/tablas/aijs25.html"
+  },
+  {
+    "name": "Aeropuerto Juan Santamaría 25 (DA)",
+    "location": "Central de Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacioncocoqnh25.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-juan-santamaria-25-da",
+    "tablesURI": "/especial/tablas/qnhaijs25.html"
+  },
+  {
+    "name": "Aeropuerto Juan Santamaría MP",
+    "location": "Central de Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacioncocomp.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-juan-santamaria-mp",
+    "tablesURI": "/especial/tablas/aijsmp.html"
+  },
+  {
+    "name": "Aeropuerto Tobías Bolaños 09",
+    "location": "Pavas - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAitbp09.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-tobias-bolanos-09",
+    "tablesURI": "/especial/tablas/aitbp09.html"
+  },
+  {
+    "name": "Aeropuerto Tobías Bolaños 09 (DA)",
+    "location": "Pavas - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAitbp09qnh.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-tobias-bolanos-09-da",
+    "tablesURI": "/especial/tablas/qnhaitbp09.html"
+  },
+  {
+    "name": "Aeropuerto Tobías Bolaños 27",
+    "location": "Pavas - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPavas.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-tobias-bolanos-27",
+    "tablesURI": "/especial/tablas/pave.html"
+  },
+  {
+    "name": "Aeropuerto Tobías Bolaños 27 (DA)",
+    "location": "Pavas - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPavas2.html",
+    "region": "valleCentral",
+    "id": "aeropuerto-tobias-bolanos-27-da",
+    "tablesURI": "/especial/tablas/qnhpaves.html"
+  },
+  {
+    "name": "Alfredo Volio Mata",
+    "location": "Cartago - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionAlfredoVolio.html",
+    "region": "valleCentral",
+    "id": "alfredo-volio-mata",
+    "tablesURI": "/especial/tablas/alfredovolio.html"
+  },
+  {
+    "name": "Altos Tablazo, Higuito",
+    "location": "Desamparados - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estaciontablazo.html",
+    "region": "valleCentral",
+    "id": "altos-tablazo-higuito",
+    "tablesURI": "/especial/tablas/tablazo.html"
+  },
+  {
+    "name": "Barrancas",
+    "location": "El Guarco - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBarrancas.html",
+    "region": "valleCentral",
+    "id": "barrancas",
+    "tablesURI": "/especial/tablas/barrancas.html"
+  },
+  {
+    "name": "Belén",
+    "location": "Belén - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBelen.html",
+    "region": "valleCentral",
+    "id": "belen",
+    "tablesURI": "/especial/tablas/belen.html"
+  },
+  {
+    "name": "Cerro Burío",
+    "location": "Aserrí - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionBurio.html",
+    "region": "valleCentral",
+    "id": "cerro-burio",
+    "tablesURI": "/especial/tablas/burio.html"
+  },
+  {
+    "name": "Cerro Cedral",
+    "location": "Escazú- San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCedral.html",
+    "region": "valleCentral",
+    "id": "cerro-cedral",
+    "tablesURI": "/especial/tablas/cedral.html"
+  },
+  {
+    "name": "Cerro Chitaria, Santa Ana",
+    "location": "Santa Ana - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionchitaria.html",
+    "region": "valleCentral",
+    "id": "cerro-chitaria-santa-ana",
+    "tablesURI": "/especial/tablas/chitaria.html"
+  },
+  {
+    "name": "Cerro Jucó",
+    "location": "Paraíso - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionJuco.html",
+    "region": "valleCentral",
+    "id": "cerro-juco",
+    "tablesURI": "/especial/tablas/juco.html"
+  },
+  {
+    "name": "CIGEFI",
+    "location": "Montes de Oca - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCigefi.html",
+    "region": "valleCentral",
+    "id": "cigefi",
+    "tablesURI": "/especial/tablas/cigefi.html"
+  },
+  {
+    "name": "Ciudad de los Niños",
+    "location": "Cartago - Cartago",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionCiudadninos.html",
+    "region": "valleCentral",
+    "id": "ciudad-de-los-ninos",
+    "tablesURI": "/especial/tablas/ciudadninos.html"
+  },
+  {
+    "name": "Ciudad Judicial",
+    "location": "Flores - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionJudicial.html",
+    "region": "valleCentral",
+    "id": "ciudad-judicial",
+    "tablesURI": "/especial/tablas/ciudadjudicial.html"
+  },
+  {
+    "name": "CRRV, Plantel Municipal",
+    "location": "Santa Ana - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMuniStaAna.html",
+    "region": "valleCentral",
+    "id": "crrv-plantel-municipal",
+    "tablesURI": "/especial/tablas/munistaana1.html"
+  },
+  {
+    "name": "Fabio Baudrit",
+    "location": "Central - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionFABIO.html",
+    "region": "valleCentral",
+    "id": "fabio-baudrit",
+    "tablesURI": "/especial/tablas/fabio.html"
+  },
+  {
+    "name": "Finca Los Lotes",
+    "location": "La Unión - Cartago",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionLoslotes.html",
+    "region": "valleCentral",
+    "id": "finca-los-lotes",
+    "tablesURI": "/especial/tablas/loslotes.html"
+  },
+  {
+    "name": "Finca Los Macaya",
+    "location": "Goicoechea - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMacaya.html",
+    "region": "valleCentral",
+    "id": "finca-los-macaya",
+    "tablesURI": "/especial/tablas/macaya.html"
+  },
+  {
+    "name": "IMN, Aranjuez",
+    "location": "Central San José - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacion.html",
+    "region": "valleCentral",
+    "id": "imn-aranjuez",
+    "tablesURI": "/especial/tablas/imn.html"
+  },
+  {
+    "name": "ITCR, Cartago",
+    "location": "Cartago - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCartago.html",
+    "region": "valleCentral",
+    "id": "itcr-cartago",
+    "tablesURI": "/especial/tablas/cartagotec.html"
+  },
+  {
+    "name": "Iztarú",
+    "location": "La Unión - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionIztaru.html",
+    "region": "valleCentral",
+    "id": "iztaru",
+    "tablesURI": "/especial/tablas/iztaru.html"
+  },
+  {
+    "name": "Jaboncillal",
+    "location": "Goicoechea - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionJaboncillal.html",
+    "region": "valleCentral",
+    "id": "jaboncillal",
+    "tablesURI": "/especial/tablas/jaboncillal.html"
+  },
+  {
+    "name": "Laguna Fraijanes",
+    "location": "Alajuela - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionFraijanes.html",
+    "region": "valleCentral",
+    "id": "laguna-fraijanes",
+    "tablesURI": "/especial/tablas/fraijanes.html"
+  },
+  {
+    "name": "Llano Grande",
+    "location": "Cartago - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionLlanogrande.html",
+    "region": "valleCentral",
+    "id": "llano-grande",
+    "tablesURI": "/especial/tablas/llanogrande.html"
+  },
+  {
+    "name": "Pacayas",
+    "location": "Alvarado - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPacayas.html",
+    "region": "valleCentral",
+    "id": "pacayas",
+    "tablesURI": "/especial/tablas/pacayas.html"
+  },
+  {
+    "name": "Patio de Agua",
+    "location": "Coronado - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPatio.html",
+    "region": "valleCentral",
+    "id": "patio-de-agua",
+    "tablesURI": "/especial/tablas/patio.html"
+  },
+  {
+    "name": "RECOPE La Garita",
+    "location": "La Garita - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionGarita.html",
+    "region": "valleCentral",
+    "id": "recope-la-garita",
+    "tablesURI": "/especial/tablas/lagarita.html"
+  },
+  {
+    "name": "RECOPE Ochomogo",
+    "location": "Cartago - Cartago",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionOchomogo.html",
+    "region": "valleCentral",
+    "id": "recope-ochomogo",
+    "tablesURI": "/especial/tablas/ochomogo.html"
+  },
+  {
+    "name": "Residencial Bosques, Santa Ana",
+    "location": "Santa Ana - San José",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionMuniStaAnaBosques.html",
+    "region": "valleCentral",
+    "id": "residencial-bosques-santa-ana",
+    "tablesURI": "/especial/tablas/munistaana2.html"
+  },
+  {
+    "name": "Residencial Paraíso, Piedades",
+    "location": "Santa Ana - San José",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionMuniStaAnaParaiso.html",
+    "region": "valleCentral",
+    "id": "residencial-paraiso-piedades",
+    "tablesURI": "/especial/tablas/munistaana4.html"
+  },
+  {
+    "name": "San Miguel",
+    "location": "Naranjo - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionNaranjo.html",
+    "region": "valleCentral",
+    "id": "san-miguel",
+    "tablesURI": "/especial/tablas/naranjo.html"
+  },
+  {
+    "name": "Santa Bárbara",
+    "location": "Santa Bárbara - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSTB.html",
+    "region": "valleCentral",
+    "id": "santa-barbara",
+    "tablesURI": "/especial/tablas/stabarbara.html"
+  },
+  {
+    "name": "Santa Lucía",
+    "location": "Barva - Heredia",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionsantalucia.html",
+    "region": "valleCentral",
+    "id": "santa-lucia",
+    "tablesURI": "/especial/tablas/stalucia.html"
+  },
+  {
+    "name": "Sartalillo, Potrero Cerrado",
+    "location": "Oreamuno - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPotrero.html",
+    "region": "valleCentral",
+    "id": "sartalillo-potrero-cerrado",
+    "tablesURI": "/especial/tablas/potrerocerrado.html"
+  },
+  {
+    "name": "Universidad para la Paz",
+    "location": "Mora - San José",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionUPaz.html",
+    "region": "valleCentral",
+    "id": "universidad-para-la-paz",
+    "tablesURI": "/especial/tablas/upaz.html"
+  },
+  {
+    "name": "UTN, Balsa de Atenas",
+    "location": "Atenas - Alajuela",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionUTN.html",
+    "region": "valleCentral",
+    "id": "utn-balsa-de-atenas",
+    "tablesURI": "/especial/tablas/utn.html"
+  },
+  {
+    "name": "Volcán Irazú",
+    "location": "Oreamuno - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionVirazu.html",
+    "region": "valleCentral",
+    "id": "volcan-irazu",
+    "tablesURI": "/especial/tablas/virazu.html"
+  },
+  {
+    "name": "Cantagallo",
+    "location": "Pococí - Limón",
+    "state": "Mantenimiento",
+    "link": "http://www.imn.ac.cr/especial/estacionCantagallo.html",
+    "region": "caribeNorte",
+    "id": "cantagallo",
+    "tablesURI": "/especial/tablas/cantagallo.html"
+  },
+  {
+    "name": "Caramba Farms, Roxana",
+    "location": "Pococí - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionRoxana.html",
+    "region": "caribeNorte",
+    "id": "caramba-farms-roxana",
+    "tablesURI": "/especial/tablas/roxana.html"
+  },
+  {
+    "name": "EARTH",
+    "location": "Guácimo - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionearth.html",
+    "region": "caribeNorte",
+    "id": "earth",
+    "tablesURI": "/especial/tablas/earth.html"
+  },
+  {
+    "name": "Finca El Carmen",
+    "location": "Siquirres - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionElcarmen.html",
+    "region": "caribeNorte",
+    "id": "finca-el-carmen",
+    "tablesURI": "/especial/tablas/elcarmen.html"
+  },
+  {
+    "name": "Hotel Mawamba Tortuguero",
+    "location": "Pococí - Limón",
+    "state": "Mantenimineto",
+    "link": "http://www.imn.ac.cr/especial/estacionMawamba.html",
+    "region": "caribeNorte",
+    "id": "hotel-mawamba-tortuguero",
+    "tablesURI": "/especial/tablas/mawamba.html"
+  },
+  {
+    "name": "Pococí Guápiles",
+    "location": "Pococí - Limón",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionGuapiles.html",
+    "region": "caribeNorte",
+    "id": "pococi-guapiles",
+    "tablesURI": "/especial/tablas/guapiles.html"
+  },
+  {
+    "name": "Rain Forest, Braulio Carrillo",
+    "location": "Pococí - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionRainforest.html",
+    "region": "caribeNorte",
+    "id": "rain-forest-braulio-carrillo",
+    "tablesURI": "/especial/tablas/rainforest.html"
+  },
+  {
+    "name": "Aeropuerto de Limón",
+    "location": "Central - Limón",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionlimon.html",
+    "region": "caribeSur",
+    "id": "aeropuerto-de-limon",
+    "tablesURI": "/especial/tablas/aeroplimon.html"
+  },
+  {
+    "name": "CATIE",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCatie.html",
+    "region": "caribeSur",
+    "id": "catie",
+    "tablesURI": "/especial/tablas/catie.html"
+  },
+  {
+    "name": "Colegio Técnico Profesional, La Suiza",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionCTPlasuiza.html",
+    "region": "caribeSur",
+    "id": "colegio-tecnico-profesional-la-suiza",
+    "tablesURI": "/especial/tablas/ctplasuiza.html"
+  },
+  {
+    "name": "Escuela La Pastora (SAT)",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPastora.html",
+    "region": "caribeSur",
+    "id": "escuela-la-pastora-sat",
+    "tablesURI": "/especial/tablas/lapastora.html"
+  },
+  {
+    "name": "Gavilán Canta, Bratsi",
+    "location": "Talamanca - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionGavilanCanta.html",
+    "region": "caribeSur",
+    "id": "gavilan-canta-bratsi",
+    "tablesURI": "/especial/tablas/gavilancanta.html"
+  },
+  {
+    "name": "Hitoy Cerere",
+    "location": "Matama - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionHitoy.html",
+    "region": "caribeSur",
+    "id": "hitoy-cerere",
+    "tablesURI": "/especial/tablas/hitoy.html"
+  },
+  {
+    "name": "Manzanillo",
+    "location": "Talamanca - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionManzanillo.html",
+    "region": "caribeSur",
+    "id": "manzanillo",
+    "tablesURI": "/especial/tablas/manzanillo.html"
+  },
+  {
+    "name": "Maravilla, Juan Viñas",
+    "location": "Juan Viñas - Cartago",
+    "state": "Activa",
+    "link": "https://www.imn.ac.cr/especial/estacionJuanVinas.html",
+    "region": "caribeSur",
+    "id": "maravilla-juan-vinas",
+    "tablesURI": "/especial/tablas/juanvinas.html"
+  },
+  {
+    "name": "Monumento Nacional Guayabo",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionMGuayabo.html",
+    "region": "caribeSur",
+    "id": "monumento-nacional-guayabo",
+    "tablesURI": "/especial/tablas/guayabo.html"
+  },
+  {
+    "name": "Puerto Vargas",
+    "location": "Talamanca - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionPtovargas.html",
+    "region": "caribeSur",
+    "id": "puerto-vargas",
+    "tablesURI": "/especial/tablas/ptovargas.html"
+  },
+  {
+    "name": "Sepecue, Telire",
+    "location": "Talamanca - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSepecue.html",
+    "region": "caribeSur",
+    "id": "sepecue-telire",
+    "tablesURI": "/especial/tablas/sepecue.html"
+  },
+  {
+    "name": "Sitio Mata",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSitiomata.html",
+    "region": "caribeSur",
+    "id": "sitio-mata",
+    "tablesURI": "/especial/tablas/sitiomata.html"
+  },
+  {
+    "name": "Sixaola",
+    "location": "Sixaola - Limón",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionSixaola.html",
+    "region": "caribeSur",
+    "id": "sixaola",
+    "tablesURI": "/especial/tablas/sixaola.html"
+  },
+  {
+    "name": "Turrialba Centro",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionturri.html",
+    "region": "caribeSur",
+    "id": "turrialba-centro",
+    "tablesURI": "/especial/tablas/turrialba.html"
+  },
+  {
+    "name": "Volcán Turrialba",
+    "location": "Turrialba - Cartago",
+    "state": "Activa",
+    "link": "http://www.imn.ac.cr/especial/estacionVturri.html",
+    "region": "caribeSur",
+    "id": "volcan-turrialba",
+    "tablesURI": "/especial/tablas/vturri.html"
+  }
+]
